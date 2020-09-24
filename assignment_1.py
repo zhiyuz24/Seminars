@@ -37,7 +37,7 @@ def upper_case(string):
     upper_string -- upper case version of string
     
     """
-
+    lower_string = string.ToLower()
     ### your code starts here
 
     ### your code ends here
