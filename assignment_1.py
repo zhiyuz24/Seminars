@@ -36,8 +36,13 @@ def upper_case(string):
     upper_string -- upper case version of string
 
     """
+<<<<<<< HEAD
 
     string = 'Hello Levien'### your code starts here
+=======
+    lower_string = string.ToLower()
+    ### your code starts here
+>>>>>>> 418b4594a05d22b36dec4be2b13e73ef2c8c3470
 
     ### your code ends here
 
