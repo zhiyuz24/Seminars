@@ -16,8 +16,7 @@ def lower_case(string):
     """
 
     ### your code starts here
-    lower_string = string.ToLower()
-
+    lower_string = string.ToLower
     ### your code ends here
 
     return lower_string
@@ -35,10 +34,10 @@ def upper_case(string):
 
     Returns:
     upper_string -- upper case version of string
-    
+
     """
 
-    ### your code starts here
+    string = 'Hello Levien'### your code starts here
 
     ### your code ends here
 
